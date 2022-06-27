@@ -1,0 +1,3 @@
+C:/Users/Trez/source/repos/DronePort/cmake-build-debug/CMakeFiles/DronePort.dir
+C:/Users/Trez/source/repos/DronePort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Trez/source/repos/DronePort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

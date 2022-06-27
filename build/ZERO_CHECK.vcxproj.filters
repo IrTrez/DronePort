@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Trez\source\repos\DronePort\build\CMakeFiles\3d2dfd99b9a077179440ec1d4e31b6b1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5A573502-A81D-38B0-B3DF-79F5FAECAEC6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
